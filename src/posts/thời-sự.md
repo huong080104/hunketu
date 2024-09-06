@@ -1,6 +1,6 @@
 ---
-title: Thời sự
-date: 2024-09-06T08:17:06.927Z
+title: thời sự
+date: 2024-09-06T08:18:37.610Z
 summary: >-
   Hiếm có cơn bão nào vào Biển Đông rồi mạnh lên thành siêu bão (cấp 16), khi đổ
   bộ bão vẫn rất mạnh, người dân nên tránh ra đường.
@@ -22,11 +22,5 @@ summary: >-
 
 
   Như vậy có thể thấy Yagi là siêu bão có cường độ mạnh nhất trong khoảng 30 năm gần đây hoạt động trên Biển Đông.
-tags:
-  - post
 ---
-<!--StartFragment-->
-
-# Bão Yagi mạnh nhất 30 năm qua trên Biển Đông
-
-<!--EndFragment-->
+h﻿ôm nay
